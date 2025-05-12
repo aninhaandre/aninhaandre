@@ -1,4 +1,4 @@
-# 👩‍💻 Ana André | Engenheira de Dados
+# 👩‍💻 Ana Paula André | Engenheira de Dados
 
 🚀 Engenheira de Dados apaixonada por transformar dados em soluções inteligentes.  
 Tenho experiência na construção de pipelines de dados, manipulação e integração com diferentes bancos de dados relacionais, além de lidar com grandes volumes de dados de forma eficiente.
